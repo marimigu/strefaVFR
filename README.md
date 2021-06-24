@@ -1,0 +1,2 @@
+# strefaVFR
+Virtual VFR data 
