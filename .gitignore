@@ -1,5 +1,7 @@
 # ignoruj wszystkie pliki .pdf
 *.pdf
+# ignoruj pliki .ods
+*.ods
 
 #ignoruj katalogi
 mil/
