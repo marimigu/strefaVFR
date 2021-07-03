@@ -1,0 +1,8 @@
+# ignoruj wszystkie pliki .pdf
+*.pdf
+
+#ignoruj katalogi
+mil/
+vfr/
+aip/
+sql/
