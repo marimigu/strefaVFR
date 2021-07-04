@@ -3,10 +3,12 @@
 # ignoruj pliki .ods
 *.ods
 # ignoruj pliki .csv - narazie
-*.csv
+#*.csv
 #ignoruj katalogi
 mil/
 vfr/
 aip/
 sql/
 airspaces/
+examples/
+sources/
