@@ -2,7 +2,8 @@
 *.pdf
 # ignoruj pliki .ods
 *.ods
-
+# ignoruj pliki .csv - narazie
+*.csv
 #ignoruj katalogi
 mil/
 vfr/
