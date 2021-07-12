@@ -5,12 +5,14 @@
 # ignoruj pliki .csv - narazie
 #*.csv
 #ignoruj katalogi
-mil/
-vfr/
-aip/
-sql/
+#mil/
+#vfr/
+#aip/
+
 airspaces/
 examples/
-sources/
 python/
+sources/
+sql/
+
 
