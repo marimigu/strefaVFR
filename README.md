@@ -1,5 +1,5 @@
 # strefaVFR
-##Virtual VFR data X-Plane 11
+## Virtual VFR data X-Plane 11
 
 
 Plik user_fix.dat ma punkty wlotowe VFR dla całej Polski.
