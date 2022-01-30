@@ -11,3 +11,10 @@ Zamieszczam także plik **user_fix.csv** do zaiportowania w programie LittleNavM
 **Aktualizacje:**
 
 28.01.2022
+
+Zmiany na lotniskach:
+1. EPBA
+2. EPCD
+3. EPGL
+4. EPIN
+
