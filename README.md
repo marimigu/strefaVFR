@@ -1,9 +1,9 @@
 # strefaVFR
 ## Virtual VFR data X-Plane 11
 
-Plik user_fix.csv dla Little Nawmap
+Plik user_fix.csv w celu zaimportowania do programu Little Nawmap.
 
-Plik user_fix.dat ma punkty wlotowe VFR dla całej Polski.
+Plik user_fix.dat zawiera punkty wlotowe VFR dla całej Polski.
 
 Umieszczamy go w katalogu **X-Plane/Custom Data/user_fix.dat**
 
