@@ -11,10 +11,15 @@ Umieszczamy go w katalogu **X-Plane/Custom Data/user_fix.dat**
 
 **Aktualizacje:**
 
-23.04.2022
+
 
 Zmiany na lotniskach:
 
- 1. EPBC
+23.04.2022
 
+- EPBC
+
+30.05.2022
+
+- LZTT
 
