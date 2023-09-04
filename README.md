@@ -20,18 +20,6 @@ na jutro i plik wszystkich polskich stref lotniczych.
 
 
 
-Zmiany na lotniskach:
+Pełna aktualizacja z plików AIP Polska
 
-13.07.2022
-
-EPPO
-
-EPCE
-
-07.08.2022
-
-EPNT
-
-08.08.2022
-
-EPCD
+04-09-2023
