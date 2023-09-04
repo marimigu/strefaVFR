@@ -10,7 +10,9 @@ Umieszczamy go w katalogu **X-Plane/Custom Data/user_fix.dat**
 
 pliki stref lotniczych dla Polski. Dostępny jest na dzisiaj, 
 
-na jutro i plik wszystkich stref lotniczych dla Polski.
+na jutro i plik wszystkich polskich stref lotniczych.
+
+
 
 
 
