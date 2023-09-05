@@ -10,9 +10,11 @@
 #aip/
 
 airspaces/
+archiwum/
+dane_nav/
 examples/
+output/
 python/
 sources/
 sql/
-archiwum/
-dane_nav/
+
