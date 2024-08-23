@@ -1,0 +1,18 @@
+## POMOC
+# ignoruj wszystkie pliki .pdf
+*.pdf
+# ignoruj pliki .ods
+*.ods
+# ignoruj pliki .csv - narazie
+*.csv
+# ignoruj pliki tekstowe .txt
+#*.txt
+#index.html
+
+# ignoruj katalogi
+#Archiwum/
+documentation/
+Notatnik/
+data/
+
+

@@ -1,12 +1,12 @@
 # strefaVFR
-## Virtual VFR data X-Plane 11
+## Virtual VFR data X-Plane 12
 
 
 Plik user_fix.dat zawiera punkty wlotowe VFR dla całej Polski.
 
 Umieszczamy go w katalogu **X-Plane/Custom Data/user_fix.dat**
 
-Dane aktualne na dzień 04-09-2023.
+Dane aktualne na dzień 23-08-2024.
 
 
 ** UWAGA **
