@@ -9,7 +9,7 @@
 #vfr/
 #aip/
 
-#airspaces/
+airspaces/
 archiwum/
 dane_nav/
 examples/
@@ -17,4 +17,4 @@ output/
 python/
 sources/
 sql/
-dokumentacja/
+
