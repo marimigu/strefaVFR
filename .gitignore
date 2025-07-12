@@ -4,17 +4,25 @@
 *.ods
 # ignoruj pliki .csv - narazie
 #*.csv
+# ignoruj pliki .py
+*.py
+#ignoruj pliki .txt
+*.txt
+# ignoruj pliki .log
+*.log
+
 #ignoruj katalogi
-#mil/
-#vfr/
-#aip/
 
 airspaces/
 archiwum/
 dane_nav/
+DATA/
+documentation/
 examples/
 output/
 python/
+skład/
 sources/
 sql/
+venv/
 
