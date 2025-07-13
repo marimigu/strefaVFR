@@ -13,16 +13,11 @@
 
 #ignoruj katalogi
 
-airspaces/
 archiwum/
-dane_nav/
 DATA/
-documentation/
-examples/
 output/
 python/
 skład/
-sources/
 sql/
 venv/
 
