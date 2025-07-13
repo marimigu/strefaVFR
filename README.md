@@ -1,3 +1,4 @@
+### Punkty (trasy) dolotowe i odlotowe z widocznością.
 ## ✈️ Plik `user_fix.dat`
 
 Plik generowany na podstawie punktów VFR obowiązujących w polskiej przestrzeni powietrznej.  
