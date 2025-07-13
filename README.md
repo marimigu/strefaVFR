@@ -5,7 +5,7 @@ Plik generowany na podstawie punktów VFR obowiązujących w polskiej przestrzen
 Zawiera poprawki (`FIXES`) w formacie X-Plane 11/12 i służy jako uzupełnienie danych nawigacyjnych w symulatorze.
 
 ### 🔧 Format:
-- Wersja: `1101 Version`
+- Wersja: `1200 Version`
 - Nagłówek dynamiczny: zawiera aktualny cykl AIRAC oraz datę build
 - Końcowa linia: `99` jako znacznik końca danych
 
