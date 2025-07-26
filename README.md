@@ -1,26 +1,26 @@
 ### Punkty (trasy) dolotowe i odlotowe z widocznością.
-## ✈️ Plik `user_fix.dat`
+##  Plik `user_fix.dat`
 
 Plik generowany na podstawie punktów VFR obowiązujących w polskiej przestrzeni powietrznej.  
 Zawiera poprawki (`FIXES`) w formacie X-Plane 11/12 i służy jako uzupełnienie danych nawigacyjnych w symulatorze.
 
-### 🔧 Format:
+###  Format:
 - Wersja: `1200 Version`
 - Nagłówek dynamiczny: zawiera aktualny cykl AIRAC oraz datę build
 - Końcowa linia: `99` jako znacznik końca danych
 
-### 🧠 Pochodzenie danych:
+###  Pochodzenie danych:
 - Punkty pochodzą z oficjalnych publikacji lotniczych (AIP VFR Poland)
 - Przetworzone manualnie i zapisane w bazie MariaDB lub plikach `.csv`
 - Sortowanie według kodów ICAO i nazw punktów
 
-### 📂 Użycie:
+###  Użycie:
 Skopiuj `user_fix.dat` do folderu `X-Plane 12/Custom Data/` aby aktywować własne punkty VFR w X-Plane.
 
-### ⚠️ Zastrzeżenia:
+###  Zastrzeżenia:
 Plik przeznaczony wyłącznie do użytku symulacyjnego.  
 Nie należy traktować go jako oficjalnego źródła nawigacyjnego.
-## 📄 Licencja
+##  Licencja
 
 Ten projekt jest dostępny na zasadzie otwartości — możesz z niego korzystać, kopiować, modyfikować i publikować dalej.
 

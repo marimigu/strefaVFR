@@ -1,0 +1,75 @@
+icao,region,miasto,id_typ,
+EPBA,EP,Bielsko-Biała,3,Cywilne
+EPBC,EP,Warszawa Bemowo,1,Cywilne
+EPBK,EP,Białystok,3,Cywilne
+EPBY,EP,Bydgoszcz,1,Cywilne
+EPCD,EP,Depułtycze Królewskie,4,Cywilne
+EPCE,EP,Cewice ,2,Wojskowe
+EPDA,EP,Darłowo,2,Wojskowe
+EPDE,EP,Dęblin,2,Wojskowe
+EPGD,EP,Gdańsk,1,komunikacyjne
+EPGI,EP,Giżycko,3,aeroklubowe
+EPGL,EP,Gliwice,4,aeroklubowe
+EPIN,EP,Inowrocław,3,aeroklubowe
+EPIR,EP,Inowrocław Łatkowo,2,Wojskowe
+EPJG,EP,Jelenia Góra,3,aeroklubowe
+EPJS,EP,Jeżów Sudecki,4,inne
+EPKA,EP,Kielce Masłów,3,aeroklubowe
+EPKC,EP,Kraków Czyżyny,4,inne
+EPKE,EP,Kętrzyn,4,inne
+EPKH,EP,Koszalin Baza ,4,inne
+EPKK,EP,Kraków Balice,1,komunikacyjne
+EPKM,EP,Katowice-Muchowiec,1,aeroklubowe
+EPKP,EP,Kraków Popiednik Wielki,3,aeroklubowe
+EPKR,EP,Krosno,3,aeroklubowe
+EPKS,EP,Poznań Krzesiny,2,Wojskowe
+EPKT,EP,Katowice Pyrzowice,1,komunikacyjne
+EPKW,EP,Kielce Masłów,3,inne
+EPLB,EP,Lublin,1,komunikacyjne
+EPLK,EP,Łęczyca,2,inne
+EPLL,EP,Łódź,1,komunikacyjne
+EPLS,EP,Leszno,3,aeroklubowe
+EPLY,EP,Łomża,4,inne
+EPMB,EP,Malbork,2,wojskowe
+EPMI,EP,Mirosławiec,2,wojskowe
+EPML,EP,Mielec,3,inne
+EPMM,EP,Mińsk Mazowiecki,2,wojskowe
+EPMO,EP,Modlin,1,komunikacyjne
+EPMR,EP,Mirosławice,4,inne
+EPNC,EP,Chrcynno,3,aeroklubowe
+EPNT,EP,Nowy Targ,3,aeroklubowe
+EPOD,EP,Olsztyn-Dajtki,3,aeroklubowe
+EPOK,EP,Gdynia Oksywie,2,wojskowe
+EPOM,EP,Michałków Ostrów Wlkp.,3,aeroklubowe
+EPOP,EP,Opole-Polska Nowa Wieś,3,aeroklubowe
+EPPB,EP,Poznań Bednary,4,inne
+EPPG,EP,Kąkolewo,4,inne
+EPPI,EP,Piła,3,aeroklubowe
+EPPK,EP,Poznań Kobylnica,3,aeroklubowe
+EPPL,EP,Płock,3,aeroklubowe
+EPPO,EP,Poznań-Ławica,1,komunikacyjne
+EPPR,EP,Przasnysz,3,aeroklubowe 
+EPPT,EP,Piotrków Trybunalski,3,aeroklubowe
+EPPW,EP,Powidz,2,wojskowe
+EPRA,EP,Radom,1,komunikacyjne
+EPRG,EP,Rybnik Gotartowice,3,inne
+EPRP,EP,Piastów Radom,3,aeroklubowe
+EPRU,EP,Rudniki,3,inne
+EPRZ,EP,Rzeszów,1,komunikacyjne
+EPSC,EP,Szczecin-Goleniów,1,komunikacyjne
+EPSD,EP,Świdwin,2,wojskowe
+EPSK,EP,Słupsk,3,aeroklubowe 
+EPSN,EP,Sanok,4,inne
+EPSS,EP,Krzczonów Świdnica,4,inne
+EPST,EP,Stalowa Wola,3,aeroklubowe
+EPSU,EP,Suwałki,3,inne
+EPSY,EP,Szczytno-Szymany,1,komunikacyjne
+EPTM,EP,Tomaszów Mazowiecki,2,wojskowe
+EPTO,EP,Toruń,3,aeroklubowe
+EPWA,EP,Warszawa-Okęcie,1,komunikacyjne
+EPWK,EP,Włocławek Kruszyn,3,inne
+EPWR,EP,Wrocław,1,komunikacyjne
+EPWS,EP,Wrocław Szymanów,3,inne
+EPZA,EP,Zamość,3,inne
+EPZG,EP,Zielona Góra,1,komunikacyjne
+EPZP,EP,Przylep Zielona Góra,3,inne
