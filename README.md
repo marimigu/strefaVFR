@@ -27,6 +27,7 @@ Ten projekt jest dostępny na zasadzie otwartości — możesz z niego korzysta�
 Plik `user_fix.dat` służy wyłącznie do symulacji lotniczej i nie stanowi oficjalnego źródła danych dla nawigacji rzeczywistej.
 
 Autor: [Mariusz Migut](mailto:migutmariusz@yahoo.com)
+
 [Strona projektu](https://marimigu.github.io/strefaVFR/)
 
 
