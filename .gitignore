@@ -10,6 +10,8 @@
 *.txt
 # ignoruj pliki .log
 *.log
+# ignoruj pliki .css
+*.css
 
 #ignoruj katalogi
 
