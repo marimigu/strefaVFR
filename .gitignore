@@ -11,7 +11,7 @@
 # ignoruj pliki .log
 *.log
 # ignoruj pliki .css
-*.css
+#*.css
 
 #ignoruj katalogi
 

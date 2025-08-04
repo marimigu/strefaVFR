@@ -1,0 +1,88 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.doc-menu {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    margin-bottom: 40px;
+}
+
+.doc-menu a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 3px;
+}
+
+.doc-menu a:hover {
+    border-bottom: 2px solid #666;
+}
+
+
+.single-sheet {
+    width: 900px;
+    margin: 60px auto;
+    padding: 60px;
+    background-color: #fff;
+    background-image:
+        linear-gradient(to bottom, #e0e0e0 1px, transparent 1px),
+        linear-gradient(to right, #e0e0e0 1px, transparent 1px);
+    background-size: 20px 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    color: #333;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+header img {
+    height: 60px;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: right;
+    margin: 0;
+}
+
+.meta {
+    font-size: 14px;
+    text-align: right;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+p {
+    text-indent: 40px;
+    margin-bottom: 18px;
+    line-height: 1.7;
+}
+
+.signature {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: right;
+    color: #555;
+}
+
+footer {
+    border-top: 1px solid #ccc;
+    margin-top: 60px;
+    padding-top: 20px;
+    font-size: 13px;
+    text-align: center;
+    color: #777;
+}
