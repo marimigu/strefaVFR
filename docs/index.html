@@ -1,41 +1,65 @@
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
-    <meta charset="UTF-8" />
-    <title>O mnie</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="split-container">
-      <div class="left-panel">
-        
-        <img src="images/aw2.jpg" alt="Moje zdjęcie" class="avatar" />
 
-        <p class="short-description">SP-MMA</p>
+<head>
+  <meta charset="UTF-8">
+  <title>StrefaVFR</title>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <link href="Style2.css" rel="stylesheet" type="text/css">
 
-      </div>
-      <div class="separator"></div>
-      <div class="right-panel">
-        <h2>Repozytorium strefaVFR</h2>
-        <h3>Pochodzenie danych</h3>
-        <ul>
-        <li>Punkty pochodzą z oficjalnych publikacji lotniczych (AIP VFR Poland)</li>
-        <li>Przetworzone manualnie i zapisane w bazie MariaDB</li>
-        <li>Sortowanie według kodów ICAO i nazw punktów</li>
-        </ul>
-         <h3>Zastrzeżenia:</h3>
-        <ol>
-        <li>Plik przeznaczony wyłącznie do użytku symulacyjnego.</li>
-        <li>Nie należy traktować go jako oficjalnego źródła nawigacyjnego.</li>
-        </ol>
-  
-        <h3>Licencja</h3>
+</head>
 
-<p>Ten projekt jest dostępny na zasadzie otwartości — możesz z niego korzystać, kopiować, modyfikować i publikować dalej.
+<body>
 
-Plik user_fix.dat służy wyłącznie do symulacji lotniczej i nie stanowi oficjalnego źródła danych dla nawigacji rzeczywistej</p>
-      </div>
-    </div>
-  </body>
+  <div class="single-sheet">
+    <header>
+      <img src="logo.png" alt="Logo projektu">
+      <h1>Repozytorium strefaVFR</h1>
+    </header>
+
+    <div class="meta">Autor: Mariusz &nbsp;|&nbsp; Wersja: 1.0 &nbsp;|&nbsp; Data: Sierpień 2025</div>
+    <nav class="doc-menu">
+      <a href="index.html">Główna</a>
+      <a href="historia.html">Historia</a>
+      <!--<a href="dodatki.html">Dodatki</a>-->
+    </nav>
+    <h4>StrefaVFR — punkty VFR dla X-Plane</h4>
+    <p>
+      StrefaVFR to zestaw punktów wlotowych i wylotowych VFR dla lotnisk w Polsce, opracowany na podstawie danych z AIP
+      Polska
+      Celem projektu jest uproszczenie nawigacji wizualnej w symulatorze X-Plane.
+    </p>
+    <h4>Co zawiera projekt?</h4>
+    <p>
+      Plik user_fix.dat zawierający punkty VFR zgodne z formatem X-Plane
+    </p>
+    <h4>Jak używać?</h4>
+    <p>
+    <ul>
+      <li>Skopiuj user_fix.dat do katalogu Custom Data w X-Plane</li>
+      <li>Zaimportuj pliki VFR do Little Navmap</li>
+      <li>Korzystaj z dodatkowych danych przestrzeni powietrznej</li>
+    </ul>
+    </p>
+    <h4>Dokumentacja</h4>
+    <p>
+      Szczegóły dotyczące struktury danych, używanych narzędzi i procesu pozyskiwania będą dostępne wkrótce.
+    </p>
+
+    <h4>Licencja</h4>
+    <p>Ten projekt jest dostępny na zasadzie otwartości — możesz z niego korzystać, kopiować, modyfikować i publikować
+      dalej.
+      Plik user_fix.dat służy wyłącznie do symulacji lotniczej i nie stanowi oficjalnego źródła danych dla nawigacji
+      rzeczywistej</p>
+
+    <div class="signature">Mariusz</div>
+
+    <footer>
+      Dokument zatwierdzony · Projekt dostępny publicznie · <a href="https://github.com/marimigu">Repozytorium
+        GitHub</a>
+    </footer>
+  </div>
+
+</body>
+
 </html>
-
