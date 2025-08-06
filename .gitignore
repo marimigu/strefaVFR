@@ -11,7 +11,7 @@
 # ignoruj pliki .log
 *.log
 # ignoruj pliki .css
-#*.css
+*.css
 # ignoruj pliki backup
 *.backup
 
@@ -24,4 +24,5 @@ python/
 skład/
 sql/
 venv/
+documentation/
 
