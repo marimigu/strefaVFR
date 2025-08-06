@@ -12,6 +12,8 @@
 *.log
 # ignoruj pliki .css
 #*.css
+# ignoruj pliki backup
+*.backup
 
 #ignoruj katalogi
 

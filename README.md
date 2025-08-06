@@ -9,6 +9,9 @@ Zawiera poprawki (`FIXES`) w formacie X-Plane 11/12 i służy jako uzupełnienie
 - Nagłówek dynamiczny: zawiera aktualny cykl AIRAC oraz datę build.
 - Końcowa linia: `99` jako znacznik końca danych.
 
+### Dokumentacja
+Dokumentacja znajduje się w katalogu `documentation/` .Plik `po_kolei.md` będzie wystarczający.
+
 ###  Użycie:
 Skopiuj `user_fix.dat` do folderu `X-Plane 12/Custom Data/` aby aktywować własne punkty VFR w X-Plane.
 
