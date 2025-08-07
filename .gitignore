@@ -3,7 +3,7 @@
 # ignoruj pliki .ods
 *.ods
 # ignoruj pliki .csv - narazie
-#*.csv
+*.csv
 # ignoruj pliki .py
 *.py
 #ignoruj pliki .txt
@@ -14,6 +14,8 @@
 *.css
 # ignoruj pliki backup
 *.backup
+# nie ignoruj pliku w katalogu output
+!output/*.dat
 
 #ignoruj katalogi
 
@@ -25,4 +27,4 @@ skład/
 sql/
 venv/
 documentation/
-
+tmp/

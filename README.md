@@ -1,4 +1,4 @@
-### Punkty dolotowe i odlotowe z widocznością.
+### Wykaz punktów nawigacyjnych przy dolotach i odlotach VFR do/z.
 
 ### Plik `user_fix.dat`
 
