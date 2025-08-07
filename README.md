@@ -1,5 +1,7 @@
 ### Wykaz punktów nawigacyjnych przy dolotach i odlotach VFR do/z.
 
+#### AIRAC CYCLE 2508
+
 ### Plik `user_fix.dat`
 
 Plik generowany na podstawie punktów VFR obowiązujących w polskiej przestrzeni powietrznej.  
