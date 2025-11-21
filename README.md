@@ -1,6 +1,6 @@
 ### Wykaz punktów nawigacyjnych przy dolotach i odlotach VFR do/z.
 
-#### AIRAC CYCLE 2508
+#### AIRAC CYCLE 2511
 
 ### Plik `user_fix.dat`
 
