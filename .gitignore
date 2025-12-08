@@ -16,20 +16,16 @@
 *.backup
 # nie ignoruj pliku w katalogu output
 !output/*.dat
+# narazie ignotuj plik 
+po_kolei.md
 
 #ignoruj katalogi
 
-archiwum/
 DATA/
 output/
 python/
-skład/
 sql/
 venv/
-documentation/
 tmp/
-magazyn_staroci/
-sprawdz_kod/
 download_chart/
 ad4_v2/
-rozszerzenie/
