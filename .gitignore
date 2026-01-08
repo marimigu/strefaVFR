@@ -18,6 +18,8 @@
 !output/*.dat
 # narazie ignotuj plik 
 po_kolei.md
+po_kolei_edit.md
+three_vfr.sh
 
 #ignoruj katalogi
 
