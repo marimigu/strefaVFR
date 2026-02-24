@@ -20,6 +20,7 @@
 po_kolei.md
 po_kolei_edit.md
 three_vfr.sh
+czysc_dane.sh
 
 #ignoruj katalogi
 
@@ -31,3 +32,4 @@ venv/
 tmp/
 download_chart/
 ad4_v2/
+baza_vfr/
